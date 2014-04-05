@@ -1,3 +1,4 @@
 Ubuntu VM
 =========
-A simple saucy ubuntu vm provisioned with vagrant and ansible
+A simple precise ubuntu vm provisioned with vagrant and ansible
+
