@@ -3,8 +3,3 @@
   sudo: yes
   apt: update-cache=yes
   tags: common
-
-- name: Common | Update language
-  sudo: yes
-  apt: pkg=language-pack-en
-  tags: common
